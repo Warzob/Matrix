@@ -9,7 +9,8 @@ a Matrix  discord theme, worked by Warzob
 
 
 Cyberpunk:
-<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/Capture%20d’écran%202025-04-15%20à%2021.33.14.png?raw=true">
+<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix%201.png?raw=true">
+<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix2.png?raw=true">
 
 
 
@@ -20,7 +21,7 @@ Cyberpunk:
 
 ### vencord/betterdiscord (or client that supports theme files)
 
-1. download the theme file, [`matrix.theme.css`](https://github.com/Warzob/cyberpunk_theme/blob/main/cyberpunk.theme.css). (there should be a download button at the top right of the page)
+1. download the theme file, [`matrix.theme.css`](https://github.com/Warzob/cyberpunk_theme/blob/main/matrix.theme.css). (there should be a download button at the top right of the page)
 2. drag the file into your theme folder. (there should be a button to open the theme folder in theme settings)
 3. (optional) customize the theme by editing the options in `midnight.theme.css`.
 
