@@ -4,8 +4,9 @@
 Un thème Discord sur le theme de matrix, retravaillé par Warzob. arrive prochainement 
 
 
-Cyberpunk:
-<img width=800 src="https://github.com/Warzob/cyberpunk_theme/blob/main/cyberpunk.png?raw=true">
+<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix%201.png?raw=true">
+<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix2.png?raw=true">
+
 
 ## install
 
@@ -16,7 +17,7 @@ Cyberpunk:
 
 ### vencord/betterdiscord (or client that supports theme files)
 
-1. Téléchargez le fichier de thème [`cyberpunk.theme.css`](https://github.com/Warzob/cyberpunk_theme/blob/main/cyberpunk.theme.css). (Il devrait y avoir un bouton de téléchargement en haut à droite de la page.)
+1. Téléchargez le fichier de thème [`matrix.theme.css`](https://github.com/Warzob/matrix). (Il devrait y avoir un bouton de téléchargement en haut à droite de la page.)
 2. Glissez le fichier dans votre dossier de thèmes. (Il devrait y avoir un bouton pour ouvrir le dossier des thèmes dans les paramètres de thème.)
 3. (Facultatif) Personnalisez le thème en modifiant les options dans `midnight.theme.css`.
 
