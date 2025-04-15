@@ -1,5 +1,5 @@
 
-# MATRIX V>3
+# MATRIX V3
 
 Un thème Discord sur le theme de matrix, retravaillé par Warzob. arrive prochainement 
 
