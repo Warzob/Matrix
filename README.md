@@ -9,7 +9,7 @@ a Matrix  discord theme, worked by Warzob
 
 
 Cyberpunk:
-<img width=600 src="https://github.com/Warzob/cyberpunk_theme/blob/main/cyberpunk.png?raw=true">
+<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/Capture%20d’écran%202025-04-15%20à%2021.33.14.png?raw=true">
 
 
 
