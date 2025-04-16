@@ -8,7 +8,6 @@
 a Matrix  discord theme, worked by Warzob
 
 
-matrix:
 <img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix%201.png?raw=true">
 <img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix2.png?raw=true">
 
