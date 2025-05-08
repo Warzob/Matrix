@@ -1,22 +1,22 @@
 
 ## [**🇫🇷 Version française / French Version (Cliquer pour voir)**](README_FR.md)
 
-# Matrix V 3
+# Matrix V 3.2
 
 
 
 a Matrix  discord theme, worked by Warzob
 
 
-> [!midnight.css:] 
-
+### midnight V3.2
 <img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix 5.png?raw=true">
 <img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix2.png?raw=true">
 <img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix3.png?raw=true">
 <img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix4.png?raw=true">
 
-> [!system24.css:] 
 
+
+### System24 V3
 <img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix6.png?raw=true">
 <img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix7.png?raw=true">
 
