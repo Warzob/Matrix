@@ -8,11 +8,17 @@
 a Matrix  discord theme, worked by Warzob
 
 
-<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix%201.png?raw=true">
+> [!midnight.css:] 
+
+<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix 5.png?raw=true">
 <img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix2.png?raw=true">
 <img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix3.png?raw=true">
 <img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix4.png?raw=true">
-<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix 5.png?raw=true">
+
+> [!system24.css:] 
+
+<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix6.png?raw=true">
+<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix7.png?raw=true">
 
 
 ## install
