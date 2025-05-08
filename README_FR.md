@@ -1,11 +1,20 @@
 
-# MATRIX V3
+# Matrix V 3.2
 
-Un thème Discord sur le theme de matrix, retravaillé par Warzob. arrive prochainement 
+Un thème Discord sur le theme de matrix, retravaillé par Warzob.
 
-
-<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix%201.png?raw=true">
+### midnight V3.2
+<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix 5.png?raw=true">
 <img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix2.png?raw=true">
+<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix3.png?raw=true">
+<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix4.png?raw=true">
+
+
+
+### System24 V3
+<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix6.png?raw=true">
+<img width=600 src="https://github.com/Warzob/Matrix/blob/main/asset/matrix7.png?raw=true">
+>
 
 
 ## install
